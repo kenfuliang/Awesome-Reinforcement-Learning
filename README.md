@@ -1,4 +1,4 @@
-# Deep_Reinforcement_Learning
+# Awesome-Reinforcement-Learning
 ## Table of Contents
 
  - [Researchers](#researchers)
